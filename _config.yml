@@ -2,7 +2,7 @@
 permalink:        /post/:title.html
 
 # Setup
-url:              https://rhl7168.github.io/rhl.github.io
+url:              https://rhl7168.github.io
 img_url:          https://infp.github.io/images
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
