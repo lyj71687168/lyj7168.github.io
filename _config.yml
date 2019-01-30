@@ -3,23 +3,19 @@ permalink:        /post/:title.html
 
 # Setup
 url:              https://rhl7168.github.io
-img_url:          https://infp.github.io/images
+img_url:          https://rhl7168.github.io/img.github.io/image
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
-baseurl:          'https://rhl7168.github.io'
+baseurl:          ''
 
 title:            '一粒小小小精灵'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   [学无止境尚需专注弥坚](https://rhl7168.github.io/code/)
-<<<<<<< HEAD
-=======
-
->>>>>>> 770213afd5204ffb819e4fc1c7b7bde7a93305da
 
 # Google Analytics tracking ID
-# analytics:        ''
+# analytics:        'UA-32028925-2'
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/images/hedin.jpg
