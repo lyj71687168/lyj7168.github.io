@@ -307,7 +307,10 @@ th {
 /* Content that align center, for example img */
 .center {
   display: block;
-  margin: auto;
+  // margin: auto;
+}
+.litter-img {
+  width: 30%;
 }
 
 
