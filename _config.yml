@@ -30,8 +30,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    我是一粒小小小精灵，热爱工作，热爱编程的女程序媛，永远向着未来，向着光芒努力！
-
+    我是一粒小小小精灵，热爱工作，热爱生活的女程序媛，向着未来，向着光芒努力！
 
 compress_html:
   clippings:      all
