@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'typescript'
+tags: [code]
+---
+
 ### 关于ts
 ts是js的超级，提供了对类型系统和es6的支持，由microsoft开发
 
