@@ -2,11 +2,11 @@
 permalink:        /post/:title.compress_html
 
 # Setup
-url:              https://lyj71687168.github.io/lyj7168.github.io
+url:              https://lyj71687168.github.io
 img_url:          https://lyj7168.github.io/img.github.io/image
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
-baseurl:          ''
+baseurl:          '/lyj7168.github.io'
 
 title:            '一粒小小小精灵'
 
